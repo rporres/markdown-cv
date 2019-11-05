@@ -50,7 +50,7 @@ Main Technologies used: Ubuntu, Postgres, Chef, Nginx, Varnish, Ruby on Rails, R
 <br/>
 
 `December 2013 - February 2015`
-**Amazon Web Services, Systems Development Engineer, Dublin**
+**Amazon Web Services, Systems Engineer, Dublin**
 
 Systems Development Engineer in the Operations Team of AWS Relational Database Service (RDS) that provides a managed service for relational database engines.
 
